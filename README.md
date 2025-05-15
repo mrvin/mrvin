@@ -11,9 +11,10 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 ## My Pet Projects 🌱
-[calendar](https://github.com/mrvin/hw-otus-go/tree/master/hw12-15calendar)
-[url-shortener](https://github.com/mrvin/tasks-go/tree/master/url-shortener)
-[e-wallet](https://github.com/mrvin/tasks-go/tree/master/e-wallet)
+* [calendar](https://github.com/mrvin/hw-otus-go/tree/master/hw12-15calendar)  
+* [url-shortener](https://github.com/mrvin/tasks-go/tree/master/url-shortener)  
+* [e-wallet](https://github.com/mrvin/tasks-go/tree/master/e-wallet)  
+* [persons](https://github.com/mrvin/tasks-go/tree/master/persons)  
 
 ## GitHub Statistics 📈
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrvin&theme=buefy&show_icons=true&count_private=true)](https://github.com/mrvin)  
