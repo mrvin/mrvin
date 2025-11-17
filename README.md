@@ -1,18 +1,17 @@
 ## About Me
-* 👨‍ I'm 29 years old.
+* 👨‍ I'm 30 years old.
 * 👨‍🎓 I graduated from [SUAI](https://guap.ru/en/) in 2019. [Institute of Aerospace Instruments and Systems - No 1](https://guap.ru/en/about/deps#i1).
 
 ## Skills
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 ## My Pet Projects 🌱
-* [calendar](https://github.com/mrvin/hw-otus-go/tree/master/hw12-15calendar)  
-* [url-shortener](https://github.com/mrvin/tasks-go/tree/master/url-shortener)  
+* [url-shortener](https://github.com/mrvin/url-shortener)  
 * [e-wallet](https://github.com/mrvin/tasks-go/tree/master/e-wallet)  
 * [persons](https://github.com/mrvin/tasks-go/tree/master/persons)  
 
