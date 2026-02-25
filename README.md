@@ -22,8 +22,9 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## Мои пет-проекты 🌱
-* [url-shortener](https://github.com/mrvin/url-shortener) - cервис для сокращения URL-адресов. API: HTTP/REST. Технологии: Golang, Docker Compose, PostgreSQL, Redis, GitHub Actions, OpenAPI.  
+* [calendar](https://github.com/mrvin/calendar) - сервис для хранения календарных событий и отправки уведомлений. API: HTTP/REST и gRPC. Технологии: Golang, Docker Compose, PostgreSQL, RabbitMQ, GitHub Actions, SMTP.  
 * [anti-bruteforce](https://github.com/mrvin/anti-bruteforce) - сервис для борьбы с подбором паролей при авторизации. API: gRPC. Технологии: Golang, Docker Compose, SQLite, GitHub Actions.  
+* [url-shortener](https://github.com/mrvin/url-shortener) - cервис для сокращения URL-адресов. API: HTTP/REST. Технологии: Golang, Docker Compose, PostgreSQL, Redis, GitHub Actions, OpenAPI.  
 
 ## GitHub статистика 📈
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrvin&theme=buefy&show_icons=true&count_private=true)](https://github.com/mrvin)  
